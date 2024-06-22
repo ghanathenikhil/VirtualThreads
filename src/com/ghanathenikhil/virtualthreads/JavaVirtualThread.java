@@ -1,4 +1,4 @@
-package com.ghanathenikhil.virtualttreads;
+package com.ghanathenikhil.virtualthreads;
 
 public class JavaVirtualThread {
     public static void main(String[] args) throws InterruptedException {

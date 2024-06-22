@@ -1,4 +1,4 @@
-package com.ghanathenikhil.virtualttreads;
+package com.ghanathenikhil.virtualthreads;
 
 import java.math.BigInteger;
 import java.util.ArrayList;
