@@ -1,11 +1,11 @@
-package com.ghanathenikhil.threads;
+package com.ghanathenikhil.virtualthreads;
 
 import java.time.Duration;
 import java.time.Instant;
 import java.util.ArrayList;
 import java.util.List;
 
-public class NumberOfThreadsV {
+public class NumberOfThreads {
     private static final int TOTAL_NO_OF_THREADS = 35000;
 
     public static void main(String[] args) throws InterruptedException {
